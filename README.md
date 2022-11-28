@@ -1,0 +1,7 @@
+- 👋 Hello there!
+- 🦆 My name is Duckie (DuckieTheCoder if you prefer,)
+- 💻 I've been coding for four years now, and i find interest in [continued on next line]
+- ❌ Working on my mistakes and giving encouragement ✔️ to fellow developers.
+- 
+- That's a bit about me, i'd love to see your comments on my projects and if i can improve anything!
+- See you soon!
